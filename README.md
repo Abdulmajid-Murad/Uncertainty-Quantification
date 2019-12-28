@@ -4,4 +4,4 @@ Deep learning models have been widely used in many real-world applications and q
 
 In this project, I explore Bayesian methods and their approximate inference as techniques to capture model uncertainty in prediction tasks. I implement two deep generative modeling techniques: Dropout as a Bayesian Approximation to estimate uncertainty as well as Bayes by Backprop as a technique to approximate Bayesian neural networks using stochastic variational inference.  Then demonstrate the inference methods and perform empirical evaluations on various benchmark regression dataset. Finally, I discuss the shortcomings of these two techniques, then suggest and implement possible improvements along with empirical evaluation and results comparison.
 
-See report.pdf for full documentation
+See [Project_report](Project_report.pdf) for full documentation
